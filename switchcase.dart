@@ -1,7 +1,7 @@
 void main (){
 
 
-    int days = 23;
+    int days = 3;
     
   switch(days){
 
