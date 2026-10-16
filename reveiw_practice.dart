@@ -16,6 +16,7 @@ count_even_and_odd();
 
 
 evenorodd(){
+  
   int num=12;
 
   if(num%2==0){
